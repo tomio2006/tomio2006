@@ -1,9 +1,9 @@
 @tomio2006
 
 ```diff
-@@ learning c# @@
+@@ Learning c# @@
 ```
 
 ```diff
-@@ aprendendo c# @@
+@@ Aprendendo c# @@
 ```
